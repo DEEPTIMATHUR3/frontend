@@ -1,0 +1,15 @@
+body{
+  background-color:peachpuff;
+}
+.photo
+{
+  width: 200px;
+  height: 200px;
+  object-fit: cover; /* This prevents the image from looking stretched */
+
+}
+.card{
+  border: 2px dotted blueviolet;
+  padding:20px;
+  
+}
